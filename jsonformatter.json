@@ -1,10 +1,10 @@
 {
-  "name": "DawnSpace",
+  "name": "DawnSpaceScaraEdit",
   "description": "A more blue space theme.",
   "version": "1.2",
   "authors": [
     {
-      "name": "mortyick",
+      "name": "-",
       "id": "705853948052897813"
     }
   ],
@@ -152,6 +152,6 @@
   "background": {
     "blur": 0.1,
     "url": "https://imglf4.lf127.net/img/e0b10100c01a6b87/M09jNmVJUDdIMGhKQm45dWRXaldpVnlkb2U4d3k0amcxdWltODFPeEdTcz0.png",
-    "alpha": 0.6
+    "alpha": 0.3
   }
 }
